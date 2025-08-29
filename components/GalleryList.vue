@@ -46,7 +46,7 @@ export default {
       images: [
         {
           title: 'test',
-          description: '我的女装照',
+          description: 'test',
           url: '/images/test.png'
         }
       ],
